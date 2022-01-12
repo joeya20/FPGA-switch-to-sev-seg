@@ -1,0 +1,25 @@
+/*
+This project will read an 8-bit value from SW[7:0] to display that value in decimal or hex based on the value of SW[8]
+*/
+
+
+module switch-to-sev-seg 
+	(
+		MAX10_CLK1_50,
+		SW,
+		LEDR,
+		HEX0,
+		HEX1,
+		HEX2,
+		HEX3
+	)
+
+//port declarations
+input MAX10_CLK1_50;
+input SW;
+
+output LEDR;
+output HEX0;
+output HEX1;
+output HEX2;
+

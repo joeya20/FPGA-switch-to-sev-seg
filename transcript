@@ -1,0 +1,204 @@
+# Compile of bin_to_bcd.v failed with 3 errors.
+# Compile of bin_to_bcd_tb.v failed with 2 errors.
+# 2 compiles, 2 failed with 5 errors.
+# Compile of bin_to_bcd.v failed with 2 errors.
+# Compile of bin_to_bcd_tb.v failed with 1 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of bin_to_bcd.v failed with 2 errors.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.bin_to_bcd_tb
+# vsim -gui work.bin_to_bcd_tb 
+# Start time: 20:44:09 on Jan 10,2022
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+add wave -position end sim:/bin_to_bcd_tb/DUT/*
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(16)
+#    Time: 30 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 16
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(16)
+#    Time: 30 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 16
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+restart -f
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+restart -f
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+add wave -position end sim:/bin_to_bcd_tb/DUT/*
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# WARNING: No extended dataflow license exists
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+restart -f
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# Compile of bin_to_bcd.v was successful.
+# Compile of bin_to_bcd_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bin_to_bcd_tb
+# Loading work.bin_to_bcd
+run -all
+# ** Note: $finish    : C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /bin_to_bcd_tb
+# 1
+# Break in Module bin_to_bcd_tb at C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v line 21
+# End time: 22:27:08 on Jan 10,2022, Elapsed time: 1:42:59
+# Errors: 0, Warnings: 2

@@ -1,0 +1,9 @@
+module bin_to_bcd
+	(
+		i_bin,
+		o_bcd
+	)
+	
+	//port declarations
+	input i_bin;
+	output o_bcd;

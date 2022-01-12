@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/JoeyD/Documents/GitHub/FPGA-LED-blinker
+vbin_to_bcd
+Z0 !s110 1641873952
+!i10b 1
+!s100 Ega8FgQN_L>4WV3f=M85L3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IoX4LQI>NXnkMn[z8nH9HQ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg
+w1641873949
+8C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd.v
+FC:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd.v
+!i122 29
+L0 6 51
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1641873952.000000
+!s107 C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vbin_to_bcd_tb
+R0
+!i10b 1
+!s100 6?jW<R?3:;MO8@^V3zJ9[1
+R1
+In2iX`e^X]=4CYbZJHMZJ=1
+R2
+R3
+w1641872909
+8C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v
+FC:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v
+!i122 30
+L0 1 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/JoeyD/Documents/GitHub/FPGA-switch-to-sev-seg/bin_to_bcd_tb.v|
+!i113 1
+R6
+R7
