@@ -17,6 +17,6 @@ Process:
 3. Break up mux output into 3 4-bit signals, all of which are passed to a 7-segment decoder
 4. The 7-segment decoders convert the value of the 4-bit signals into 8-bit signals that are passed to the 7-segment displays
 
-Note:
-1. BCD signal is obtained using a combinational process that implements the Double Dabble algorithm
-2. The 7-segment decoder is implemented as a LUT
+Notes:
+- BCD signal is obtained using a combinational process that implements the Double Dabble algorithm
+- The 7-segment decoder is implemented as a LUT
